@@ -1,0 +1,3 @@
+interface:
+  display_name: "Error Handling"
+  short_description: "Clear failure behavior and recovery in any language"

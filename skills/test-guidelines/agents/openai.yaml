@@ -1,0 +1,3 @@
+interface:
+  display_name: "Test Guidelines"
+  short_description: "Tests that prove behavior and can actually fail"
